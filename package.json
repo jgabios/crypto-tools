@@ -1,0 +1,19 @@
+{
+  "name": "trade",
+  "version": "1.0.0",
+  "description": "trade",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "poloniex.js": "^0.0.7",
+    "autobahn": "~0.9.4",
+    "pg": "^6.1.5",
+    "bufferutil": "*",
+    "utf-8-validate": "*"
+  }
+}
